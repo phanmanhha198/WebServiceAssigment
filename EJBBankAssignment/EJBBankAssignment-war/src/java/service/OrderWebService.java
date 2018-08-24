@@ -18,7 +18,7 @@ import javax.jws.WebService;
 
 /**
  *
- * @author quang
+ * @author macos
  */
 @WebService(serviceName = "OrderWebService")
 public class OrderWebService {

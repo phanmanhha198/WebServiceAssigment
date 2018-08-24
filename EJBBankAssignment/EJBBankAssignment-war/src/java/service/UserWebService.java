@@ -14,7 +14,7 @@ import javax.jws.WebParam;
 
 /**
  *
- * @author quang
+ * @author macos
  */
 @WebService(serviceName = "UserWebService")
 public class UserWebService {
